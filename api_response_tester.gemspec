@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'api_response_tester'
-  s.version     = '0.0.0'
+  s.version     = '0.0.1'
   s.date        = '2018-09-28'
   s.summary     = "A gem which tests the api endpoints"
   s.description = "ApiResponseTester tests the api endpoints by taking a yaml file which consists of api endpoints, params, and expected response json file reference."
