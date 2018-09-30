@@ -10,4 +10,7 @@ Gem::Specification.new do |s|
   s.homepage    =
       'http://rubygems.org/gems/api_response_tester'
   s.license       = 'MIT'
+  s.add_development_dependency 'rspec', '~> 3.8'
+  s.add_development_dependency 'json', '~>2.1'
+  s.add_development_dependency 'rest-client', '~>2.0'
 end
