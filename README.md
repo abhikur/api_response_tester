@@ -56,7 +56,6 @@ Api response tester need two things:
 
 ## Development
 
-####Calling the test method of api_response_tester
  When the test file and the response folder has been created finally you can call the test method as given below:
  
  ```ruby
